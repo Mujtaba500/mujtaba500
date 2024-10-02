@@ -4,7 +4,7 @@
 
 A full stack web developer from Lahore, Pakistan   
 
-Currently learning software development and open source best practices
+I'm currently learning development and open source best practices
 
 <div align="center">
   
