@@ -2,9 +2,7 @@
 
 👋 Hi, Mujtaba Here.
 
-A full stack web developer from Lahore, Pakistan   
-
-I'm currently delving deeper into the backend 
+A full stack Software engineer from pakistan specializing in backend
 
 <div align="center">
   
